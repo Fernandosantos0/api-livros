@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 50,
+    "editor.fontSize": 15,
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "explorer.confirmDragAndDrop": false,
+    "editor.bracketPairColorization.enabled": true,
+    "explorer.compactFolders": true,
+    "explorer.confirmPasteNative": false
+}
