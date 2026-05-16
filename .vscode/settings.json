@@ -6,6 +6,18 @@
     "editor.formatOnSave": true,
     "explorer.confirmDragAndDrop": false,
     "editor.bracketPairColorization.enabled": true,
-    "explorer.compactFolders": true,
-    "explorer.confirmPasteNative": false
+    "explorer.compactFolders": false,
+    "explorer.confirmPasteNative": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "eslint.format.enable": true,
+    "editor.detectIndentation": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "prettier.bracketSpacing": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }

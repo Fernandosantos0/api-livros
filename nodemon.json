@@ -1,5 +1,17 @@
 {
     "execMap": {
         "js": "node -r sucrase/register"
-    }
+    },
+    "ignore": [
+        ".git",
+        ".gitignore",
+        "node_modules",
+        "uploads/*",
+        "*.test.js",
+        "*.log",
+        "eslint.config.mjs",
+        ".editorconfig",
+        ".prettierrc",
+        "LICENCE"
+    ]
 }
