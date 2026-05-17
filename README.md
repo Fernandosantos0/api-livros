@@ -1,4 +1,4 @@
-# 📚 BookRegistry API
+# 📚 API REST Full Livros
 
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D%2018.0.0-blue.svg)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.x-lightgrey.svg)](https://expressjs.com/)
